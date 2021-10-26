@@ -6,7 +6,6 @@ Created on Tue Oct 26 00:55:55 2021
 """
 
 import streamlit as st
-import random
 import plotly.express as px
 import pandas as pd
 
